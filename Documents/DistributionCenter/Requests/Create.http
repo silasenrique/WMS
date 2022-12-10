@@ -1,0 +1,8 @@
+POST http://localhost:5099/api/distribution-center HTTP/1.1   
+Content-Type: application/json
+
+{
+    "internalCode": "PSI",
+    "name": "Centro de Distribuição de Itaquaquecetuba",
+    "document": "10760161010190"
+}

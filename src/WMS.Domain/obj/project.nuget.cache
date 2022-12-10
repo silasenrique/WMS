@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ESHtc24+OlWMDApbYGT97uOAG3W9KWftueUw4ymb6FokAbUiiQ5uliDuIF5oGWunDeWV8VSUplD+f+beRG2dKw==",
+  "success": true,
+  "projectFilePath": "/home/senrique/Desenvolvimento/WMS/src/WMS.Domain/WMS.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/senrique/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512",
+    "/home/senrique/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

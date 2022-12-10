@@ -1,0 +1,17 @@
+/home/senrique/Desenvolvimento/WMS/src/WMS.Application/bin/Debug/net7.0/WMS.Application.deps.json
+/home/senrique/Desenvolvimento/WMS/src/WMS.Application/bin/Debug/net7.0/WMS.Application.dll
+/home/senrique/Desenvolvimento/WMS/src/WMS.Application/bin/Debug/net7.0/WMS.Application.pdb
+/home/senrique/Desenvolvimento/WMS/src/WMS.Application/bin/Debug/net7.0/WMS.Domain.dll
+/home/senrique/Desenvolvimento/WMS/src/WMS.Application/bin/Debug/net7.0/WMS.Domain.pdb
+/home/senrique/Desenvolvimento/WMS/src/WMS.Application/obj/Debug/net7.0/WMS.Application.csproj.AssemblyReference.cache
+/home/senrique/Desenvolvimento/WMS/src/WMS.Application/obj/Debug/net7.0/WMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/senrique/Desenvolvimento/WMS/src/WMS.Application/obj/Debug/net7.0/WMS.Application.AssemblyInfoInputs.cache
+/home/senrique/Desenvolvimento/WMS/src/WMS.Application/obj/Debug/net7.0/WMS.Application.AssemblyInfo.cs
+/home/senrique/Desenvolvimento/WMS/src/WMS.Application/obj/Debug/net7.0/WMS.Application.csproj.CoreCompileInputs.cache
+/home/senrique/Desenvolvimento/WMS/src/WMS.Application/obj/Debug/net7.0/WMS.Application.csproj.CopyComplete
+/home/senrique/Desenvolvimento/WMS/src/WMS.Application/obj/Debug/net7.0/WMS.Application.dll
+/home/senrique/Desenvolvimento/WMS/src/WMS.Application/obj/Debug/net7.0/refint/WMS.Application.dll
+/home/senrique/Desenvolvimento/WMS/src/WMS.Application/obj/Debug/net7.0/WMS.Application.pdb
+/home/senrique/Desenvolvimento/WMS/src/WMS.Application/obj/Debug/net7.0/ref/WMS.Application.dll
+/home/senrique/Desenvolvimento/WMS/src/WMS.Application/bin/Debug/net7.0/WMS.Persistence.dll
+/home/senrique/Desenvolvimento/WMS/src/WMS.Application/bin/Debug/net7.0/WMS.Persistence.pdb

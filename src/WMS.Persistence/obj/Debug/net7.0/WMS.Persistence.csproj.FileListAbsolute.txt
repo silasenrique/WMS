@@ -1,0 +1,15 @@
+/home/senrique/Desenvolvimento/WMS/src/WMS.Persistence/obj/Debug/net7.0/WMS.Persistence.csproj.AssemblyReference.cache
+/home/senrique/Desenvolvimento/WMS/src/WMS.Persistence/obj/Debug/net7.0/WMS.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/senrique/Desenvolvimento/WMS/src/WMS.Persistence/obj/Debug/net7.0/WMS.Persistence.AssemblyInfoInputs.cache
+/home/senrique/Desenvolvimento/WMS/src/WMS.Persistence/obj/Debug/net7.0/WMS.Persistence.AssemblyInfo.cs
+/home/senrique/Desenvolvimento/WMS/src/WMS.Persistence/obj/Debug/net7.0/WMS.Persistence.csproj.CoreCompileInputs.cache
+/home/senrique/Desenvolvimento/WMS/src/WMS.Persistence/bin/Debug/net7.0/WMS.Persistence.deps.json
+/home/senrique/Desenvolvimento/WMS/src/WMS.Persistence/bin/Debug/net7.0/WMS.Persistence.dll
+/home/senrique/Desenvolvimento/WMS/src/WMS.Persistence/bin/Debug/net7.0/WMS.Persistence.pdb
+/home/senrique/Desenvolvimento/WMS/src/WMS.Persistence/bin/Debug/net7.0/WMS.Domain.dll
+/home/senrique/Desenvolvimento/WMS/src/WMS.Persistence/bin/Debug/net7.0/WMS.Domain.pdb
+/home/senrique/Desenvolvimento/WMS/src/WMS.Persistence/obj/Debug/net7.0/WMS.Persistence.csproj.CopyComplete
+/home/senrique/Desenvolvimento/WMS/src/WMS.Persistence/obj/Debug/net7.0/WMS.Persistence.dll
+/home/senrique/Desenvolvimento/WMS/src/WMS.Persistence/obj/Debug/net7.0/refint/WMS.Persistence.dll
+/home/senrique/Desenvolvimento/WMS/src/WMS.Persistence/obj/Debug/net7.0/WMS.Persistence.pdb
+/home/senrique/Desenvolvimento/WMS/src/WMS.Persistence/obj/Debug/net7.0/ref/WMS.Persistence.dll

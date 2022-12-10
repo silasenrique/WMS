@@ -1,0 +1,12 @@
+/home/senrique/Desenvolvimento/WMS/src/WMS.Domain/bin/Debug/net7.0/WMS.Domain.deps.json
+/home/senrique/Desenvolvimento/WMS/src/WMS.Domain/bin/Debug/net7.0/WMS.Domain.dll
+/home/senrique/Desenvolvimento/WMS/src/WMS.Domain/bin/Debug/net7.0/WMS.Domain.pdb
+/home/senrique/Desenvolvimento/WMS/src/WMS.Domain/obj/Debug/net7.0/WMS.Domain.csproj.AssemblyReference.cache
+/home/senrique/Desenvolvimento/WMS/src/WMS.Domain/obj/Debug/net7.0/WMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/senrique/Desenvolvimento/WMS/src/WMS.Domain/obj/Debug/net7.0/WMS.Domain.AssemblyInfoInputs.cache
+/home/senrique/Desenvolvimento/WMS/src/WMS.Domain/obj/Debug/net7.0/WMS.Domain.AssemblyInfo.cs
+/home/senrique/Desenvolvimento/WMS/src/WMS.Domain/obj/Debug/net7.0/WMS.Domain.csproj.CoreCompileInputs.cache
+/home/senrique/Desenvolvimento/WMS/src/WMS.Domain/obj/Debug/net7.0/WMS.Domain.dll
+/home/senrique/Desenvolvimento/WMS/src/WMS.Domain/obj/Debug/net7.0/refint/WMS.Domain.dll
+/home/senrique/Desenvolvimento/WMS/src/WMS.Domain/obj/Debug/net7.0/WMS.Domain.pdb
+/home/senrique/Desenvolvimento/WMS/src/WMS.Domain/obj/Debug/net7.0/ref/WMS.Domain.dll

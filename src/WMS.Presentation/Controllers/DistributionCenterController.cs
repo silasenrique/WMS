@@ -62,7 +62,7 @@ public class DistributionCenterController : MainController
     }
 
     [HttpDelete]
-    public async Task<ActionResult> Delete(DistributionCenterDeleteCommand request)
+    public async Task<ActionResult> Delete([FromQuery] DistributionCenterDeleteCommand request)
     {
         Error? errorOrResponse = await _sender.Send(request);
         if (errorOrResponse is null) return NoContent();

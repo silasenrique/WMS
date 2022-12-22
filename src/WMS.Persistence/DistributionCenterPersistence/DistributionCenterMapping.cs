@@ -15,7 +15,7 @@ public class DistributionCenterMapping : IEntityTypeConfiguration<DistributionCe
         builder.Property(cd => cd.Id)
             .HasConversion(
                 c => c.Value,
-                _ => DistributionCenterId.CreateUnique());
+                c => DistributionCenterId.ParseId(c));
 
         builder.Property(cd => cd.Document)
             .HasConversion(

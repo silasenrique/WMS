@@ -21,11 +21,10 @@ public class DistributionCenterQueryHandler : IRequestHandler<DistributionCenter
     {
         await Task.CompletedTask;
 
-        var abc = request.Id ?? Guid.Empty;
-
         Expression<Func<DistributionCenter, bool>> expression = e =>
             (e.InternalCode.Contains(request.InternalCode) || request.InternalCode == null) &&
-            (e.Name.Contains(request.Name) || request.Name == null);
+            (e.Name.Contains(request.Name) || request.Name == null) &&
+            (e.Id == DistributionCenterId.ParseId(request.Id ?? Guid.Empty) || request.Id == null);
 
         IEnumerable<DistributionCenter>? distributionsCenter = _repository.Get(expression);
         if (distributionsCenter is null) return new List<DistributionCenterResponse>();

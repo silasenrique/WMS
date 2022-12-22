@@ -27,7 +27,7 @@ public class MainController : ControllerBase
             _ => StatusCodes.Status500InternalServerError,
         };
 
-        return Problem(statusCode: statusCode, title: error.Code, detail: error.Description);
+        return Problem(detail: error.Description, statusCode: statusCode, title: error.Code);
     }
 
     protected ActionResult ValidationProblem(List<Error> errors)
